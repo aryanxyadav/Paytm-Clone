@@ -1,5 +1,5 @@
 # Paytm App Clone
-![image]([[https://github.com/harrykamboj1/Paytm-clone/assets/49549662/44dfa450-4704-49c6-85cf-10887d9f5492](https://github-production-user-asset-6210df.s3.amazonaws.com/49549662/303921375-44dfa450-4704-49c6-85cf-10887d9f5492.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250620%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250620T044936Z&X-Amz-Expires=300&X-Amz-Signature=ec86a4f2eb3f8a741557ffd6956cc3cbd506e400e1296b52dfa625714e2139e8&X-Amz-SignedHeaders=host](https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fpaytm-logo%2F&psig=AOvVaw0ZRzC3p8Blz9bXzsZSvgzL&ust=1750481466494000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMi1quCZ_40DFQAAAAAdAAAAABAE)))
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Paytm_logo.png" alt="Paytm Logo" width="150"/>
 
 ## Description
 
