@@ -1,5 +1,7 @@
 # Paytm App Clone
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Paytm_logo.png" alt="Paytm Logo" width="150"/>
+## Paytm Logo
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Paytm_logo.png" alt="Paytm Logo" width="400"/>
 
 ## Description
 
